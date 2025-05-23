@@ -1,0 +1,4 @@
+#Convert celsius to fahrenheit.
+calcius=int(input("Enter the calsius"))
+fahrenheit=(calcius*9/5)+32
+print("convert into calsius to fahrenheit:",fahrenheit)

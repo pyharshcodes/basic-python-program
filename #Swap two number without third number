@@ -1,0 +1,7 @@
+# swap a and b
+a=10
+b=5
+#swaping
+a,b=b,a
+print("a=",a)
+print("b=",b)

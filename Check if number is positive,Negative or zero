@@ -1,0 +1,8 @@
+#Number checking
+num1 =int(input("Enter first number"))
+if num1>0:
+    print("Number is positive:")
+elif num1<0:
+    print("Number is negative:")
+else:
+    print("Number is zero:")

@@ -1,0 +1,6 @@
+#simple interest calculator
+principal = int(input("Enter the value of principal"))
+rate = int(input("Enter the value of rate"))
+time= int(input("Enter the value of time"))
+Formula = (principal*rate*time)/100
+print("simple interest:",Formula)
