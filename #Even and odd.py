@@ -1,6 +1,6 @@
 #Even and odd
 #input: A number
-#Output: Chack if the number is even or odd
+#Output: Check if the number is even or odd
 
 num = int(input("Enter a number"))
 
